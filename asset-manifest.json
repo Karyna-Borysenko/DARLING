@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DARLING/static/css/main.dc673b81.css",
+    "main.js": "/DARLING/static/js/main.5317b706.js",
+    "index.html": "/DARLING/index.html",
+    "main.dc673b81.css.map": "/DARLING/static/css/main.dc673b81.css.map",
+    "main.5317b706.js.map": "/DARLING/static/js/main.5317b706.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc673b81.css",
+    "static/js/main.5317b706.js"
+  ]
+}
